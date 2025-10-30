@@ -1,0 +1,35 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output
+bin/
+build/
+dist/
+coverage.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Fyne artifacts
+*.fyne
+*.app
+*.ipa
+*.apk
+
+# Editor
+.vscode/
+.idea/
+
+# App-specific data and media (user content)
+musicdb/
+data/
+
+# Built binary
+opentify
+opentify.exe
