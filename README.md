@@ -8,6 +8,8 @@
 
 Basit ve hızlı bir masaüstü müzik oynatıcı. Go ile yazıldı; arayüz için Fyne v2, ses çalma için faiface/beep kullanır. Uygulama `musicdb/` klasörünü (özyineli) tarar, desteklenen dosyaları listeler ve çalar.
 
+![Opentify App](opentify_app.png "Opentify App")
+
 ---
 
 ## İçindekiler
